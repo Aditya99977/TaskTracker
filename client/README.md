@@ -1,16 +1,35 @@
-# React + Vite
+# Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack MERN Task Tracker application built for the COLL-EDGE CONNECT Full Stack Developer Internship assignment.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Create, Read, Update and Delete Tasks
+- Dashboard with task statistics
+- Search Tasks
+- Filter by Status
+- Responsive UI
+- REST API
+- MongoDB Atlas
+- React + Express + Node.js
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Axios
+- React Toastify
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://task-tracker-kappa-mocha.vercel.app/
+
+## Backend
+
+https://tasktracker-backend-yn01.onrender.com
+
+## Author
+
+Aditya Thakur
