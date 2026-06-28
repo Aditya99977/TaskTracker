@@ -1,0 +1,19 @@
+@import "./FilterBar.css";
+@import "./TaskCard.css";
+@import "./Dashboard.css";
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+    background:#eef2ff;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
